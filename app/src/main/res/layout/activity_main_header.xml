@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="320dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 2" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 3" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 4" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 5" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 6" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 7" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 8" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#ff6666"
+                android:gravity="center"
+                android:padding="16dp"
+                android:text="in 9" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
